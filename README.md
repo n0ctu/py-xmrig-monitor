@@ -5,6 +5,11 @@ I was experimenting with solo mining (space heating lol) and got too lazy to log
 
 # Installation 
 
+1. If you're on windows and trust me, download the standalone executable from the [releases page](https://github.com/n0ctu/py-xmrig-monitor/releases).
+2. Use it as a portable app, no installation required.
+
+Or run it using your Python interpreter:
+
 1. Clone the repository
 2. Go to the project directory
 3. Install the required packages
