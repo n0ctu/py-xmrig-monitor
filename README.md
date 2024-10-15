@@ -6,23 +6,16 @@ I was experimenting with solo mining (space heating lol) and got too lazy to log
 # Installation 
 
 1. Clone the repository
+2. Go to the project directory
+3. Install the required packages
+4. Run main.py
+
 ```bash
 git clone https://github.com/n0ctu/py-xmrig-monitor.git
-```
-2. Go to the project directory
-```bash
 cd py-xmrig-monitor
-```
-2. Install the required packages
-```bash
 pip install -r .\requirements.txt
-```
-3. Run main.py
-```bash
 python main.py
 ```
-
-3. Run main.py
 
 # Usage
 
